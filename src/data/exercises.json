@@ -1,0 +1,246 @@
+{
+  "math": {
+    "grade1": [
+      {
+        "question": "Quanti sono 2 + 3?",
+        "answer": 5,
+        "options": [4, 5, 6],
+        "type": "multiple-choice"
+      },
+      {
+        "question": "Se hai 5 mele e ne mangi 2, quante te ne restano?",
+        "answer": 3,
+        "type": "input"
+      },
+      {
+        "question": "Qual è il numero dopo il 7?",
+        "answer": 8,
+        "options": [6, 8, 9],
+        "type": "multiple-choice"
+      },
+      {
+        "question": "Completa la sequenza: 1, 2, 3, __",
+        "answer": 4,
+        "type": "input"
+      }
+    ],
+    "grade2": [
+      {
+        "question": "Quanti sono 7 + 4?",
+        "answer": 11,
+        "options": [10, 11, 12],
+        "type": "multiple-choice"
+      },
+      {
+        "question": "Se hai 10 caramelle e ne dai 3 al tuo amico, quante te ne restano?",
+        "answer": 7,
+        "type": "input"
+      },
+      {
+        "question": "Quanto fa 3 x 2?",
+        "answer": 6,
+        "options": [5, 6, 7],
+        "type": "multiple-choice"
+      },
+      {
+        "question": "Completa la sequenza: 2, 4, 6, __",
+        "answer": 8,
+        "type": "input"
+      }
+    ],
+    "grade3": [
+      {
+        "question": "Quanti sono 15 + 8?",
+        "answer": 23,
+        "options": [22, 23, 24],
+        "type": "multiple-choice"
+      },
+      {
+        "question": "Se hai 20 figurine e ne perdi 7, quante te ne restano?",
+        "answer": 13,
+        "type": "input"
+      },
+      {
+        "question": "Quanto fa 4 x 5?",
+        "answer": 20,
+        "options": [15, 20, 25],
+        "type": "multiple-choice"
+      },
+      {
+        "question": "Quanto fa 18 diviso 3?",
+        "answer": 6,
+        "type": "input"
+      }
+    ],
+    "grade4": [
+      {
+        "question": "Quanti sono 35 + 17?",
+        "answer": 52,
+        "options": [51, 52, 53],
+        "type": "multiple-choice"
+      },
+      {
+        "question": "Se hai 50 euro e spendi 23 euro, quanti soldi ti restano?",
+        "answer": 27,
+        "type": "input"
+      },
+      {
+        "question": "Quanto fa 7 x 8?",
+        "answer": 56,
+        "options": [54, 56, 58],
+        "type": "multiple-choice"
+      },
+      {
+        "question": "Quanto fa 45 diviso 5?",
+        "answer": 9,
+        "type": "input"
+      }
+    ],
+    "grade5": [
+      {
+        "question": "Quanti sono 125 + 78?",
+        "answer": 203,
+        "options": [201, 203, 205],
+        "type": "multiple-choice"
+      },
+      {
+        "question": "Se un libro costa 14 euro e ne compri 3, quanto spendi in totale?",
+        "answer": 42,
+        "type": "input"
+      },
+      {
+        "question": "Quanto fa 12 x 11?",
+        "answer": 132,
+        "options": [121, 132, 144],
+        "type": "multiple-choice"
+      },
+      {
+        "question": "Quanto fa 150 diviso 6?",
+        "answer": 25,
+        "type": "input"
+      }
+    ]
+  },
+  "italian": {
+    "grade1": [
+      {
+        "question": "Quale parola inizia con la 'A'?",
+        "answer": "ape",
+        "options": ["cane", "ape", "sole"],
+        "type": "multiple-choice"
+      },
+      {
+        "question": "Completa la frase: Il gatto fa __.",
+        "answer": "miao",
+        "type": "input"
+      },
+      {
+        "question": "Quale di queste è una frutta?",
+        "answer": "mela",
+        "options": ["tavolo", "mela", "sedia"],
+        "type": "multiple-choice"
+      },
+      {
+        "question": "Scrivi il nome di un animale che vola.",
+        "answer": "uccello",
+        "type": "input"
+      }
+    ],
+    "grade2": [
+      {
+        "question": "Leggi la frase: 'Il sole splende nel cielo.' Qual è la parola che indica una stella?",
+        "answer": "sole",
+        "options": ["splende", "cielo", "sole"],
+        "type": "multiple-choice"
+      },
+      {
+        "question": "Completa la frase: La bambina gioca con la __.",
+        "answer": "palla",
+        "type": "input"
+      },
+      {
+        "question": "Quale di queste parole è un verbo?",
+        "answer": "correre",
+        "options": ["casa", "correre", "blu"],
+        "type": "multiple-choice"
+      },
+      {
+        "question": "Scrivi una frase con la parola 'fiore'.",
+        "answer": "Il fiore è bello.",
+        "type": "input"
+      }
+    ],
+    "grade3": [
+      {
+        "story": "C'era una volta una piccola volpe curiosa che amava esplorare il bosco. Un giorno trovò un sentiero nascosto e decise di seguirlo.",
+        "question": "Cosa amava fare la volpe?",
+        "answer": "esplorare il bosco",
+        "type": "input"
+      },
+      {
+        "question": "Completa la frase: Il bambino __ un libro interessante.",
+        "answer": "legge",
+        "type": "input"
+      },
+      {
+        "question": "Quale di queste parole è un aggettivo?",
+        "answer": "grande",
+        "options": ["tavolo", "mangiare", "grande"],
+        "type": "multiple-choice"
+      },
+      {
+        "question": "Scrivi una frase che descriva il tempo oggi.",
+        "answer": "Oggi c'è il sole.",
+        "type": "input"
+      }
+    ],
+    "grade4": [
+      {
+        "story": "Marco e Giulia andarono al mare. Costruirono un castello di sabbia enorme e poi fecero un bagno rinfrescante. Videro anche dei pesci colorati.",
+        "question": "Cosa costruirono Marco e Giulia?",
+        "answer": "un castello di sabbia",
+        "type": "input"
+      },
+      {
+        "question": "Completa la frase con il verbo corretto: I bambini (giocare) nel parco.",
+        "answer": "giocano",
+        "type": "input"
+      },
+      {
+        "question": "Quale di queste parole è un nome proprio?",
+        "answer": "Roma",
+        "options": ["città", "fiume", "Roma"],
+        "type": "multiple-choice"
+      },
+      {
+        "question": "Scrivi una breve descrizione del tuo animale preferito.",
+        "answer": "Il mio animale preferito è il cane perché è fedele e giocherellone.",
+        "type": "input"
+      }
+    ],
+    "grade5": [
+      {
+        "story": "La storia di Pinocchio è un classico della letteratura italiana. Pinocchio è un burattino di legno che desidera diventare un bambino vero. Durante le sue avventure, impara l'importanza dell'onestà e della verità.",
+        "question": "Cosa desidera diventare Pinocchio?",
+        "answer": "un bambino vero",
+        "type": "input"
+      },
+      {
+        "question": "Completa la frase con il pronome adatto: __ andiamo al cinema stasera.",
+        "answer": "Noi",
+        "type": "input"
+      },
+      {
+        "question": "Quale di queste parole è un avverbio?",
+        "answer": "velocemente",
+        "options": ["tavolo", "correre", "velocemente"],
+        "type": "multiple-choice"
+      },
+      {
+        "question": "Scrivi un breve testo (2-3 frasi) su cosa ti piace fare nel tempo libero.",
+        "answer": "Nel tempo libero mi piace leggere e disegnare. A volte gioco anche con i miei amici al parco.",
+        "type": "input"
+      }
+    ]
+  }
+}
