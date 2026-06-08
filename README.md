@@ -1,0 +1,1 @@
+# configurazione-iniziale-linsegnante-giocoso
